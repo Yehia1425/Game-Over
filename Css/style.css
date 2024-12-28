@@ -110,6 +110,14 @@ nav {
   transition: color 0.5s;
 }
 
+
+
+.nav-item .nav-link1:hover {
+  color: red !important;
+  transition: color 0.5s;
+}
+
+
 main .card {
   filter: grayscale(0.7);
   transition: transform 0.5s, filter 0.5s 0.1s;
